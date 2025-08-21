@@ -20,9 +20,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajibul004&label=Profile%20views&color=0e75b6&style=flat" alt="rajibul004 visitor counter"/>
-</div>
+
 
 
 ###
@@ -69,4 +67,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibul004&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Top Languages" />
+</div>
+
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=rajibul004&label=Profile%20views&color=0e75b6&style=flat" alt="rajibul004 visitor counter"/>
 </div>
