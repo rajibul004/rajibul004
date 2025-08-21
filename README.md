@@ -1,18 +1,72 @@
-# 💫 About Me:
-- 👨‍💻 I'm **Rajibul Mondal**, a passionate **Java Backend Developer** from India 🇮🇳  <br>- 🧠 Skilled in **Java**, **Spring Boot**, **REST APIs**, and **SQL databases**  <br>- 🚀 Currently exploring **microservices**, **Docker**, **Kafka**, and **system design**  <br>- 🛠️ Love building backend systems that are clean, efficient, and scalable  <br>- 🧪 Strong focus on writing testable code using **JUnit** and **Mockito**  <br>- 💡 Actively practicing DSA on LeetCode and HackerRank  <br>- 📚 Always learning new backend technologies and architecture patterns  <br>- 🎯 Career goal: Become a solid **backend engineer** and work on impactful real-world systems  <br>- 🐞 Fun fact: I find bugs faster when I talk to my rubber duck 🐤  <br>
+<!-- Profile GIF Banner -->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome banner" />
+</div>
+
+###
+
+<!-- Social Media Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/rajibul04" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn badge"/>
+  </a>
+  <a href="https://x.com/Rajibul004" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter badge"/>
+  </a>
+  <a href="mailto:rajibulmondal.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail badge"/>
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajibul004&label=Profile%20views&color=0e75b6&style=flat" alt="rajibul004 visitor counter"/>
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajibul04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Rajibul004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajibulmondal173@gmail.com) 
+###
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajibul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajibul04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Heading -->
+<h1 align="center">Hey there 👋, I'm Rajibul Mondal</h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=rajibul04&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+  - 🔭 I’m currently working on scalable Java backend systems using Spring Boot<br>
+  - 🌱 Learning Microservices, Kafka, Docker, Kubernetes & System Design<br>
+  - 💬 Ask me about Java, Spring Boot, REST APIs, Databases & Testing<br>
+  - 📫 How to reach me: rajibulmondal.dev@gmail.com<br>
+  - ⚡ Fun fact: I find bugs faster when I talk to my rubber duck 🐤
+</p>
+
+###
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+</div>
+
+###
+
+<h3 align="left">📈 My GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajibul004&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=rajibul004&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibul004&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Top Languages" />
+</div>
