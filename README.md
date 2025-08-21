@@ -38,7 +38,7 @@
   - 🔭 I’m currently working on scalable Java backend systems using Spring Boot<br>
   - 🌱 Learning Microservices, Kafka, Docker, Kubernetes & System Design<br>
   - 💬 Ask me about Java, Spring Boot, REST APIs, Databases & Testing<br>
-  - 📫 How to reach me: rajibulmondal.dev@gmail.com<br>
+  - 📫 How to reach me: rajibulmondal173@gmail.com<br>
   - ⚡ Fun fact: I find bugs faster when I talk to my rubber duck 🐤
 </p>
 
